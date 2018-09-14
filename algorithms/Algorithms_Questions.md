@@ -5,6 +5,7 @@ a)  a = 0
     while (a < n * n * n) 
       a = a + n * n
 ```
+
 ```
 b)  sum = 0
     for (i = 0; i < n; i++)
